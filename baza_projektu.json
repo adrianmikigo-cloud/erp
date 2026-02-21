@@ -1,4 +1,10 @@
 {
+  "budowy": [
+    {
+      "nazwa": "ELke",
+      "id": 1771698812569
+    }
+  ],
   "pracownicy": [
     {
       "imie": "Adrian",
@@ -27,61 +33,5 @@
       "id": 1771706471998.6726
     }
   ],
-  "narzedzia": [
-    {
-      "nazwa": "Makita 2",
-      "budowaId": null,
-      "id": 1771698796990
-    },
-    {
-      "nazwa": "Bosh",
-      "budowaId": null,
-      "id": 1771698945116
-    },
-    {
-      "nazwa": "asda",
-      "budowaId": null,
-      "id": 1771699265193
-    },
-    {
-      "nazwa": "asdasd",
-      "budowaId": null,
-      "id": 1771699294992
-    },
-    {
-      "nazwa": "Makita",
-      "budowaId": null,
-      "id": 1771699309644
-    }
-  ],
-  "budowy": [
-    {
-      "nazwa": "ELke",
-      "id": 1771698812569
-    },
-    {
-      "nazwa": "ad",
-      "id": 1771705725823
-    }
-  ],
-  "klienci": [
-    {
-      "nazwa": "ZOe",
-      "id": 1771702744042
-    }
-  ],
-  "dostawcy": [
-    {
-      "nazwa": "Bauwelt",
-      "id": 1771702751334
-    },
-    {
-      "nazwa": "Sławek",
-      "id": 1771702756293
-    },
-    {
-      "nazwa": "ll",
-      "id": 1771705466186
-    }
-  ]
+  "sprzet": []
 }
