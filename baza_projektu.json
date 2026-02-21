@@ -12,5 +12,10 @@
     }
   ],
   "narzedzia": [],
-  "budowy": []
+  "budowy": [
+    {
+      "nazwa": "ELke",
+      "id": 1771698787560
+    }
+  ]
 }
