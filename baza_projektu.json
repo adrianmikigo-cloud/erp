@@ -2,7 +2,7 @@
   "pracownicy": [
     {
       "imie": "Adrian",
-      "budowaId": 1771698787560,
+      "budowaId": null,
       "id": 1771698773425
     },
     {
@@ -14,14 +14,9 @@
   "narzedzia": [
     {
       "nazwa": "Makita 2",
-      "budowaId": 1771698787560,
+      "budowaId": null,
       "id": 1771698796990
     }
   ],
-  "budowy": [
-    {
-      "nazwa": "ELke",
-      "id": 1771698787560
-    }
-  ]
+  "budowy": []
 }
