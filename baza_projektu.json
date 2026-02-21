@@ -11,7 +11,13 @@
       "id": 1771698782734
     }
   ],
-  "narzedzia": [],
+  "narzedzia": [
+    {
+      "nazwa": "Makita 2",
+      "budowaId": null,
+      "id": 1771698796990
+    }
+  ],
   "budowy": [
     {
       "nazwa": "ELke",
