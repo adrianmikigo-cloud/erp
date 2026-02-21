@@ -2,30 +2,50 @@
   "pracownicy": [
     {
       "imie": "Adrian",
-      "budowaId": 1771698946528,
+      "budowaId": null,
       "id": 1771698773425
     },
     {
       "imie": "Adrian2",
-      "budowaId": 1771698812569,
+      "budowaId": null,
       "id": 1771698782734
     },
     {
       "imie": "Adrian",
-      "budowaId": 1771698946528,
+      "budowaId": null,
       "id": 1771698943513
+    },
+    {
+      "imie": "adas",
+      "budowaId": null,
+      "id": 1771699263349
     }
   ],
   "narzedzia": [
     {
       "nazwa": "Makita 2",
-      "budowaId": 1771698946528,
+      "budowaId": null,
       "id": 1771698796990
     },
     {
       "nazwa": "ASsad",
-      "budowaId": 1771698946528,
+      "budowaId": null,
       "id": 1771698945116
+    },
+    {
+      "nazwa": "asda",
+      "budowaId": null,
+      "id": 1771699265193
+    },
+    {
+      "nazwa": "asdasd",
+      "budowaId": null,
+      "id": 1771699294992
+    },
+    {
+      "nazwa": "Makita",
+      "budowaId": null,
+      "id": 1771699309644
     }
   ],
   "budowy": [
@@ -34,8 +54,8 @@
       "id": 1771698812569
     },
     {
-      "nazwa": "asda",
-      "id": 1771698946528
+      "nazwa": "asdas",
+      "id": 1771699292036
     }
   ]
 }
