@@ -19,6 +19,13 @@
       "imie": "adas",
       "budowaId": null,
       "id": 1771699263349
+    },
+    {
+      "imie": "Kris",
+      "budowaId": null,
+      "dni": "",
+      "termin": "",
+      "id": 1771702734432
     }
   ],
   "narzedzia": [
@@ -56,6 +63,22 @@
     {
       "nazwa": "asdas",
       "id": 1771699292036
+    }
+  ],
+  "klienci": [
+    {
+      "nazwa": "ZOe",
+      "id": 1771702744042
+    }
+  ],
+  "dostawcy": [
+    {
+      "nazwa": "Bauwelt",
+      "id": 1771702751334
+    },
+    {
+      "nazwa": "Sławek",
+      "id": 1771702756293
     }
   ]
 }
